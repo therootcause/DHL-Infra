@@ -1,0 +1,3 @@
+github_repo = "yourusername/your-repo"
+github_token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+notification_email = "you@example.com"
